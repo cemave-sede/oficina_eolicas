@@ -1,0 +1,16 @@
+{
+  "hash": "ff2977afbb8f4ede9f23c6f0fe1ebf57",
+  "result": {
+    "markdown": "---\ntitle: \"Organização\"\nengine: knitr\n---\n\n\n![](images/CEMAVE_ICMBIO.jpg){width=\"35%\"}\n\n\n::: {.cell}\n<style type=\"text/css\">\n.column {\ntext-align: left;\n}\n</style>\n:::\n\n\n::: columns\n::: {.column width=\"100%\"}\n## **Créditos**\n\nCOORDENADORA DO CEMAVE\\\nPriscilla Prudente do Amaral\n\nORGANIZAÇÃO DA OFICINA\n\nArlindo Gomes Filho\\\nMarcos de Souza Fialho\n\nMODERAÇÃO\n\nFACILITAÇÃO\n\nRELATORIA\n:::\n:::\n",
+    "supporting": [
+      "organizacao_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

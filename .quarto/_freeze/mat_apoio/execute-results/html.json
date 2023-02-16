@@ -1,0 +1,14 @@
+{
+  "hash": "85f6d384a644e775d19b3a0318969223",
+  "result": {
+    "markdown": "---\ntitle: \"Material de apoio\"\nengine: knitr\n---\n\n::: {.cell}\n<style type=\"text/css\">\n.column {\ntext-align: left;\n}\n</style>\n:::\n\n\n\n\n1. [Informações complementares](https://cemave-sede.github.io/relatorio_aves/ap%C3%AAndice---diretrizes-e-normas.html)\n\n2. [Painel de Áreas de Concentração de Aves Migratórias - CEMAVE](https://cemave-sede.github.io/painel4/)\n\n3. [Painel de dados eólicas ofshore no Brasil - EPE](https://gisepeprd2.epe.gov.br/arcgisportal/apps/webappviewer/index.html?id=61f75ef2930540ee962c26d3acfe41e1)\n\n4. [WebMapa EPE](https://gisepeprd2.epe.gov.br/WebMapEPE/)\n\n\n\n::: {.column width=\"100%\"}\n\n::: {.column width=\"40%\"}\n\n[![](images/capafinal.png){fig-alt=\"Relatório de Áreas de Concentração de Aves Migratórias no Brasil\" width=\"40%\" fig-align=\"left\"}](https://cemave-sede.github.io/relatorio_aves/)\n\n:::\n\n::: {.column width=\"40%\"}\n\n[![](images/guide_NWCC.jpg){fig-alt=\"Guia NWCC\" width=\"40%\" fig-align=\"left\"}](/textos/Comprehensive_Guide_to_Studying_Wind_Energy_Wildlife_Interactions_2011_Updated.pdf)\n\n:::\n\n::: {.column width=\"40%\"}\n\n\n[![](images/guidelines_USFWS.jpg){fig-alt=\"Guidelines USFWS\" width=\"40%\" fig-align=\"left\"}](/textos/guidelines_USFWS.pdf)\n\n:::\n\n\n::: {.column width=\"40%\"}\n\n[![](images/diretrizes_BirdLife.jpg){fig-alt=\"Diretrizes BirdLife\" width=\"40%\" fig-align=\"left\"}](/textos/diretrizes_avalicao_impactos_aves_morcegos_BirdLife.pdf)\n\n:::\n\n\n::: {.column width=\"40%\"}\n\n[![](images/relatorio_AWWIC.jpg){fig-alt=\"Report AWWIC\" width=\"40%\" fig-align=\"left\"}](/textos/2nd-Edition-AWWIC-Bird-Report-11-24-2020.pdf)\n\n:::\n\n\n::: {.column width=\"40%\"}\n\n\n[![](images/impactos_cumulativos.jpg){fig-alt=\"Impactos cumulativos\" width=\"40%\" fig-align=\"left\"}](/textos/CumulativeOnshoreWind.pdf)\n\n:::\n\n::::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

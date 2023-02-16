@@ -1,0 +1,32 @@
+---
+title: "Organização"
+engine: knitr
+---
+
+![](images/CEMAVE_ICMBIO.jpg){width="35%"}
+
+```{css echo=FALSE}
+.column {
+text-align: left;
+}
+```
+
+::: columns
+::: {.column width="100%"}
+## **Créditos**
+
+COORDENADORA DO CEMAVE\
+Priscilla Prudente do Amaral
+
+ORGANIZAÇÃO DA OFICINA
+
+Arlindo Gomes Filho\
+Marcos de Souza Fialho
+
+MODERAÇÃO
+
+FACILITAÇÃO
+
+RELATORIA
+:::
+:::
