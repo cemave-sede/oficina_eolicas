@@ -19,7 +19,8 @@ website:
         href: https://www.instagram.com/icmbio.cemave/
       - icon: youtube
         href: https://www.youtube.com/@CEMAVEICMBio
-   
+    background: "#2780e3"
+    
   page-footer:
     center: |
       [Fale conosco - CEMAVE](mailto:cemave.sede@icmbio.gov.br)
